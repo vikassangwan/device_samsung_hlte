@@ -4,7 +4,7 @@ $(call inherit-product, device/samsung/hlte/full_hlte.mk)
 $(call inherit-product, vendor/liquid/config/nfc_enhanced.mk)
 
 # Inherit some common Slim stuff.
-$(call inherit-product, vendor/liquid/config/common_full_phone.mk)
+$(call inherit-product, vendor/liquid/config/common_phone.mk)
 
 # Inherit multicarrier.
 $(call inherit-product, vendor/liquid/config/common_multicarrier.mk)
