@@ -10,9 +10,9 @@
     "branch": "kk4.4"
   },
   {
-   "repository": "SlimRoms/device_samsung_msm8960-common",
+   "repository": "android_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common",
-    "branch": "kk4.4"
+    "branch": "cm-11.0"
   },
   {
     "repository": "CyanogenMod/android_kernel_samsung_hlte",
